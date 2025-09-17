@@ -1,0 +1,21 @@
+# Build outputs
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# Local env files
+.env
+.env.local
+
+# Module Federation temp files
+.__mf__temp
+
+# Firebase local cache
+.firebase/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+.firebaserc
